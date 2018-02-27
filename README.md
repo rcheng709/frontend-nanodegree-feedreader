@@ -49,24 +49,6 @@ New Feed Selection validation->
 When a a new feed is loaded, the "loadFeed" function content will update or change
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 References:
 
 <a href=https://jasmine.github.io/2.0/introduction.html>
