@@ -51,4 +51,4 @@ When a a new feed is loaded, the "loadFeed" function content will update or chan
 
 References:
 
-<a href=https://jasmine.github.io/2.0/introduction.html>
+<a href=https://jasmine.github.io/2.0/introduction.html>Jasmine</a>
