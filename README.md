@@ -46,7 +46,7 @@ Menu Validation Part 1->
 
 Menu Validation Part 2->
 
--This test will ensure when the haburger icon is clicked it will change the visibility
+-This test will ensure when the hamburger icon is clicked it will change the visibility
 
 Initial entries->
 
