@@ -1,10 +1,10 @@
-#Udacity Project Feed Reader test
+** Udacity Project Feed Reader test **
 
-#Overview:
+** Overview: **
 
 In order for the Udacity student to learn how to use the Jasmine testing suite for javascript code.
 
-#Steps I followed for Testing:
+** Steps I followed for Testing: **
 
 1. Open Google Chrome, on windows explorer you can drag and drop index.html on the browser's address bar.
 
@@ -16,14 +16,14 @@ In order for the Udacity student to learn how to use the Jasmine testing suite f
 
 ![alt text](https://github.com/rcheng709/frontend-nanodegree-feedreader.git/testresult.png)
 
-#Test Suites:
+** Test Suites: **
 
 Please note either you can use the CLI commands using Jasmine or Jasmine spec from the Github repository.
 
 Note:I explored first the files given in this repository.
 
 
-#the FEEDS:
+** the FEEDS: **
 
 Feeds are defined->
 
@@ -38,7 +38,7 @@ Name Validation->
 -I validated the name and performed a test that loops each feed in "allFeeds" object.
 
 
-the MENU:
+** the MENU: **
 
 Menu Validation Part 1->
 
@@ -57,6 +57,6 @@ New Feed Selection validation->
 -When a a new feed is loaded, the "loadFeed" function content will update or change
 
 
-References:
+** References: **
 
 <a href=https://jasmine.github.io/2.0/introduction.html>Jasmine</a>
