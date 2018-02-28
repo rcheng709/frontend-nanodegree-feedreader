@@ -14,7 +14,7 @@ In order for the Udacity student to learn how to use the Jasmine testing suite f
 
 4. In order for your test to be successful, it should read "7 specs, 0 failures" highlighted in green.
 
-![alt text](https://github.com/rcheng709/frontend-nanodegree-feedreader/testresult.png)
+![Image did not load](frontend-nanodegree-feedreader/testresult.png)
 
 **Test Suites:**
 
